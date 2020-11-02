@@ -1,4 +1,4 @@
-# ServiceDriver
+# ServiceDriver :car
 
 ![Badge](https://img.shields.io/badge/Version-v1.0-informational)
 ![Badge](https://img.shields.io/badge/Laravel-v7.x-orange)
@@ -13,7 +13,7 @@
 | -------- | -------- | -------- |-------- |
 |Alex Ferman|https://github.com/afermanx|4º|Sistema de informação|
 
-## Linguagens e libs utilizadas :rocket:
+## Linguagens e libs utilizadas :books:
 
 - [Laravel](https://laravel.com/)
 - [Laravel-Livewire](https://laravel-livewire.com/)
