@@ -1,5 +1,5 @@
 # ServiceDriver
-https://img.shields.io/badge/Version-v1.0-informational
+
 ![Badge](https://img.shields.io/badge/Version-v1.0-informational&logo=REACT)
 <h5>Descrição do Projeto</h5>
 
