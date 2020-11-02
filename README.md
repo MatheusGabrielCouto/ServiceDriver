@@ -12,7 +12,7 @@
 |Nome|GitHub|Periodo|Curso|
 | -------- | -------- | -------- |-------- |
 |Alex Ferman|https://github.com/afermanx|4º|Sistema de informação|
-|Matheus Gabriel|https://github.com/MatheusGabrielCouto|4º|Sistema de informação|
+|Matheus Gabriel Pereira do Couto|https://github.com/MatheusGabrielCouto|4º|Sistema de informação|
 
 ## Linguagens e libs utilizadas :books:
 - [PHP](https://www.php.net/)
