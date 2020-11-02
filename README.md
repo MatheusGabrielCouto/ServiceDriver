@@ -12,7 +12,3 @@
 |Nome|Email|Periodo|Curso|
 | -------- | -------- | -------- |-------- | -------- |
 |Alex Ferman|alexjferman@gmail.com|true|Sistema de informação|
-|||4°|Sistema de informação|
-|||4°|Sistema de informação|
-|||4°|Sistema de informação|
-|||4°|Sistema de informação|
