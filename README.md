@@ -13,7 +13,7 @@
 | -------- | -------- | -------- |-------- |
 |Alex Ferman|https://github.com/afermanx|4º|Sistema de informação|
 
-## Linguagens e libs utilizadas :books:
+## Linguagens e libs utilizadas :rocket:
 
 - [Laravel](https://laravel.com/)
 - [Laravel-Livewire](https://laravel-livewire.com/)
