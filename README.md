@@ -1,8 +1,8 @@
 # ServiceDriver
-<p align="center"> 
+
 ![Badge](https://img.shields.io/badge/Version-v1.0-informational&logo=REACT)
 ![Badge](https://img.shields.io/badge/Laravel-v7.x-orange&logo=REACT)
-</p>
+
 
 <h5>Descrição do Projeto</h5>
 
