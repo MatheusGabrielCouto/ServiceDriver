@@ -13,7 +13,12 @@
 | -------- | -------- | -------- |-------- |
 |Alex Ferman|https://github.com/afermanx|4º|Sistema de informação|
 
+## Linguagens e libs utilizadas :books:
 
+- [Laravel](https://laravel.com/)
+- [Laravel-Livewire](https://laravel-livewire.com/)
+- [SqlServe](https://www.microsoft.com/en-us/sql-server/sql-server-2019) 
+- [Firebase](https://firebase.google.com/) 
 
 
 
