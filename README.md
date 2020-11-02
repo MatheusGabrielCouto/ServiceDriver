@@ -1,4 +1,4 @@
-## ServiceDriver :car:
+# :car: ServiceDriver
 
 ![Badge](https://img.shields.io/badge/Version-v1.0-informational)
 ![Badge](https://img.shields.io/badge/Laravel-v7.x-orange)
@@ -16,9 +16,9 @@
 ## Linguagens e libs utilizadas :books:
 
 - [Laravel](https://laravel.com/)
-- [Laravel-Livewire](https://laravel-livewire.com/)
-- [SqlServe](https://www.microsoft.com/en-us/sql-server/sql-server-2019) 
-- [Firebase](https://firebase.google.com/) 
+- [Laravel-Livewire](https://laravel-livewire.com/): versão 7.xxx
+- [SqlServe](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
+- [Firebase](https://firebase.google.com/)
 
 
 
